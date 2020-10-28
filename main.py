@@ -4,7 +4,7 @@ import smtplib, ssl
 import time
 
 port = 465  # For SSL
-password = '25712571'
+password = '£££££££'
 closed = ["Al Rowad Intl Sch (female Only)","Al Faris Intl Sch (male Only)"]
 
 # Create a secure SSL context
